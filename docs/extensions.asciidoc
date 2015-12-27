@@ -11,7 +11,7 @@ Makes elasticsearch-js compatible with https://aws.amazon.com/elasticsearch-serv
 http-aws-es is available on https://www.npmjs.com/package/http-aws-es[npm].
 
 === elasticsearch-bunyan
-This module sets up logs to use a provided [bunyan](https://github.com/trentm/node-bunyan) logger (or [child logger](https://github.com/trentm/node-bunyan#logchild)).
+This module sets up logs to use a provided https://github.com/trentm/node-bunyan[bunyan] logger (or https://github.com/trentm/node-bunyan#logchild[child logger]).
 
 === elasticsearch-scrolltoend
 This module provides a `scrollToEnd` function which allows for processing each batch while scrolling search results.
